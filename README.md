@@ -22,3 +22,7 @@ I’m a backend engineer working with Python, Django, and Django REST Framework.
 - Focus areas: REST APIs • Authentication & Permissions • Data Modeling • CRUD systems
 
 ---
+## Contact
+📫 pooyansaeedinia@gmail.com
+
+Open to collaboration, short-term projects
